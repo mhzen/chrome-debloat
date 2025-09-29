@@ -47,11 +47,12 @@ chrome: &chrome
   BrowserSignin: 0
   BuiltInDnsClientEnabled: false
   DefaultBrowserSettingEnabled: false
+  DnsOverHttpsMode: "automatic"
   MetricsReportingEnabled: false
   ParcelTrackingEnabled: false
   RelatedWebsiteSetsEnabled: false
   ShoppingListEnabled: false
-  SyncDisabled: true
+  # SyncDisabled: true
 
 # https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy
 brave: &brave
@@ -62,7 +63,6 @@ brave: &brave
   BraveRewardsDisabled: true
   BraveSpeedreaderEnabled: false # brave 1.82
   BraveStatsPingEnabled: false # brave 1.83
-  BraveSyncUrl: ""
   BraveTalkDisabled: true # brave 1.82
   BraveVPNDisabled: true
   BraveWalletDisabled: true

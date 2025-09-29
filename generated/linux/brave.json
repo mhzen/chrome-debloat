@@ -5,7 +5,6 @@
   "BraveRewardsDisabled": true,
   "BraveSpeedreaderEnabled": false,
   "BraveStatsPingEnabled": false,
-  "BraveSyncUrl": "",
   "BraveTalkDisabled": true,
   "BraveVPNDisabled": true,
   "BraveWalletDisabled": true,
@@ -47,11 +46,11 @@
   "BrowserSignin": 0,
   "BuiltInDnsClientEnabled": false,
   "DefaultBrowserSettingEnabled": false,
+  "DnsOverHttpsMode": "automatic",
   "MetricsReportingEnabled": false,
   "ParcelTrackingEnabled": false,
   "RelatedWebsiteSetsEnabled": false,
   "ShoppingListEnabled": false,
-  "SyncDisabled": true,
   "ExtensionManifestV2Availability": 2,
   "ExtensionInstallForcelist": [
     "ghmbeldphafepmbegfdlkpapadhbakde"

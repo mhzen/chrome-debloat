@@ -324,14 +324,14 @@
 			<false/>
 			<key>DefaultBrowserSettingEnabled</key>
 			<false/>
+			<key>DnsOverHttpsMode</key>
+			<string>automatic</string>
 			<key>MetricsReportingEnabled</key>
 			<false/>
 			<key>ParcelTrackingEnabled</key>
 			<false/>
 			<key>ShoppingListEnabled</key>
 			<false/>
-			<key>SyncDisabled</key>
-			<true/>
 			<key>ExtensionManifestV2Availability</key>
 			<integer>2</integer>
 		</dict>
