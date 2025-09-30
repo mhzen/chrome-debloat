@@ -1,7 +1,6 @@
 chromeExtensions: &chromeExtensions
   ExtensionManifestV2Availability: 2
   ExtensionInstallForcelist:
-  - ghmbeldphafepmbegfdlkpapadhbakde
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome

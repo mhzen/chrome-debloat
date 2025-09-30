@@ -40,7 +40,5 @@
   "RelatedWebsiteSetsEnabled": false,
   "ShoppingListEnabled": false,
   "ExtensionManifestV2Availability": 2,
-  "ExtensionInstallForcelist": [
-    "ghmbeldphafepmbegfdlkpapadhbakde"
-  ]
+  "ExtensionInstallForcelist": null
 }
