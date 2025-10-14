@@ -166,8 +166,8 @@ edge: &edge
   NewTabPageContentEnabled: false
   NewTabPageHideDefaultTopSites: true
   NewTabPagePrerenderEnabled: false
-  NewTabPageQuickLinksEnabled: false
-  NewTabPageLocation: "about:blank"
+  # NewTabPageQuickLinksEnabled: false
+  # NewTabPageLocation: "about:blank"
   # WebRTC
   # -
   # Additional

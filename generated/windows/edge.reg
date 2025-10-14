@@ -36,14 +36,11 @@ Windows Registry Editor Version 5.00
 "SmartScreenPuaEnabled"=dword:00000000
 "SmartScreenForTrustedDownloadsEnabled"=dword:00000000
 "SmartScreenDnsRequestsEnabled"=dword:00000000
-"NewTabPageAllowedBackgroundTypes"=dword:00000003
 "NewTabPageAppLauncherEnabled"=dword:00000000
 "NewTabPageBingChatEnabled"=dword:00000000
 "NewTabPageContentEnabled"=dword:00000000
 "NewTabPageHideDefaultTopSites"=dword:00000001
 "NewTabPagePrerenderEnabled"=dword:00000000
-"NewTabPageQuickLinksEnabled"=dword:00000000
-"NewTabPageLocation"="about:blank"
 "AADWebSiteSSOUsingThisProfileEnabled"=dword:00000000
 "AccessibilityImageLabelsEnabled"=dword:00000000
 "AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000

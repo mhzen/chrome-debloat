@@ -105,8 +105,6 @@
 			<false/>
 			<key>SmartScreenDnsRequestsEnabled</key>
 			<false/>
-			<key>NewTabPageAllowedBackgroundTypes</key>
-			<integer>3</integer>
 			<key>NewTabPageAppLauncherEnabled</key>
 			<false/>
 			<key>NewTabPageBingChatEnabled</key>
@@ -117,10 +115,6 @@
 			<true/>
 			<key>NewTabPagePrerenderEnabled</key>
 			<false/>
-			<key>NewTabPageQuickLinksEnabled</key>
-			<false/>
-			<key>NewTabPageLocation</key>
-			<string>about:blank</string>
 			<key>AADWebSiteSSOUsingThisProfileEnabled</key>
 			<false/>
 			<key>AccessibilityImageLabelsEnabled</key>
