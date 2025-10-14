@@ -8,10 +8,7 @@
   "ControlDefaultStateOfAllowExtensionFromOtherStoresSettingEnabled": true,
   "BlockExternalExtensions": false,
   "ExtensionInstallForcelist": [
-    "odfafepnkmbhccpbejgmiehpchacaeak",
-    "djkjpnciiommncecmdefpdllknjdmmmo",
-    "kkacdgacpkediooahopgcbdahlpipheh",
-    "ihknoknoahjhldmpdoajjdkfjhddgpcd"
+    "odfafepnkmbhccpbejgmiehpchacaeak"
   ],
   "GamerModeEnabled": false,
   "GenAILocalFoundationalModelSettings": 1,

@@ -133,10 +133,6 @@
 			<false/>
 			<key>ExtensionManifestV2Availability</key>
 			<integer>2</integer>
-			<key>ExtensionInstallForcelist</key>
-			<array>
-				<string>ghmbeldphafepmbegfdlkpapadhbakde</string>
-			</array>
 		</dict>
 	</array>
 </dict>

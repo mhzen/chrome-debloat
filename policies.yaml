@@ -1,6 +1,5 @@
 chromeExtensions: &chromeExtensions
   ExtensionManifestV2Availability: 2
-  ExtensionInstallForcelist:
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome
@@ -97,9 +96,6 @@ edge: &edge
   BlockExternalExtensions: false
   ExtensionInstallForcelist:
   - odfafepnkmbhccpbejgmiehpchacaeak # uBlock Origin; Edge Web Store
-  - djkjpnciiommncecmdefpdllknjdmmmo # Cookie AutoDelete; Edge Web Store
-  - kkacdgacpkediooahopgcbdahlpipheh # I still don't care about cookies; Edge Web Store
-  - ihknoknoahjhldmpdoajjdkfjhddgpcd # Blank Tab; Edge Web Store
   # Games
   GamerModeEnabled: false
   # Generative AI
