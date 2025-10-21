@@ -105,6 +105,8 @@
 			<false/>
 			<key>SmartScreenDnsRequestsEnabled</key>
 			<false/>
+			<key>NewTabPageAllowedBackgroundTypes</key>
+			<integer>3</integer>
 			<key>NewTabPageAppLauncherEnabled</key>
 			<false/>
 			<key>NewTabPageBingChatEnabled</key>
@@ -136,7 +138,7 @@
 			<key>BrowserGuestModeEnabled</key>
 			<false/>
 			<key>BrowserSignin</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>ComposeInlineEnabled</key>
 			<false/>
 			<key>ConfigureDoNotTrack</key>

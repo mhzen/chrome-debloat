@@ -181,7 +181,7 @@ edge: &edge
   AutomaticHttpsDefault: true # improved QoL
   BingAdsSuppression: true
   BrowserGuestModeEnabled: false
-  BrowserSignin: 0
+  BrowserSignin: 1
   ComposeInlineEnabled: false
   ConfigureDoNotTrack: true
   CryptoWalletEnabled: false # OBSOLETE

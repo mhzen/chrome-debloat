@@ -36,6 +36,7 @@ Windows Registry Editor Version 5.00
 "SmartScreenPuaEnabled"=dword:00000000
 "SmartScreenForTrustedDownloadsEnabled"=dword:00000000
 "SmartScreenDnsRequestsEnabled"=dword:00000000
+"NewTabPageAllowedBackgroundTypes"=dword:00000003
 "NewTabPageAppLauncherEnabled"=dword:00000000
 "NewTabPageBingChatEnabled"=dword:00000000
 "NewTabPageContentEnabled"=dword:00000000
@@ -51,7 +52,7 @@ Windows Registry Editor Version 5.00
 "AutomaticHttpsDefault"=dword:00000001
 "BingAdsSuppression"=dword:00000001
 "BrowserGuestModeEnabled"=dword:00000000
-"BrowserSignin"=dword:00000000
+"BrowserSignin"=dword:00000001
 "ComposeInlineEnabled"=dword:00000000
 "ConfigureDoNotTrack"=dword:00000001
 "CryptoWalletEnabled"=dword:00000000
